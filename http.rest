@@ -1,7 +1,10 @@
+
 GET http://localhost:3000/jokes/saved
 
 ###
 
-
-
 POST http://localhost:3000/jokes/saved 
+
+###
+
+GET http://localhost:3000/jokes
