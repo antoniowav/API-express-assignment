@@ -7,7 +7,6 @@ To install:
 Express
 Fetch
 Nodemon
-Joke api: npm install --save sv443-joke-api
 
 Requirements for passing the assignment:
 
